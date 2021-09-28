@@ -13,15 +13,15 @@
       "complete": true
     },
     {
-      "title": "New lorem",
+      "title": "New lorem again !!!!!!!",
       "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
       "complete": false,
       "id": 3
     },
     {
-      "title": "New again Lorem",
-      "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-      "complete": false,
+      "title": "New again Lorem updated",
+      "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "complete": true,
       "id": 4
     },
     {
@@ -35,6 +35,12 @@
       "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
       "complete": false,
       "id": 6
+    },
+    {
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "id": 7
     }
   ]
 }
