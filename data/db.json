@@ -15,7 +15,7 @@
     {
       "title": "New lorem again !!!!!!!",
       "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
-      "complete": false,
+      "complete": true,
       "id": 3
     },
     {
